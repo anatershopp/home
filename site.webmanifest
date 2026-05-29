@@ -1,0 +1,12 @@
+{
+  "name": "Anatter Shop",
+  "short_name": "Anatter",
+  "description": "Sua loja online com as melhores ofertas",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#FFE600",
+  "theme_color": "#FFE600",
+  "icons": [
+    { "src": "apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}
